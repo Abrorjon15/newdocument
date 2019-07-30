@@ -1,0 +1,25 @@
+{
+  "name": "newdocument",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abrorjon15/newdocument.git"
+  },
+  "author": "Abrorjon15",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abrorjon15/newdocument/issues"
+  },
+  "homepage": "https://github.com/Abrorjon15/newdocument#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
